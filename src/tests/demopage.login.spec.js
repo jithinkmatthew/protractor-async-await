@@ -2,6 +2,7 @@
 /**
  * If below credential are not working, open the below link
  * and enter email id. You will get access details
+ * http://demo.guru99.com/
  */
 
 //Guru99 Bank - Login page test script without pom
