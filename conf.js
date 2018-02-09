@@ -15,9 +15,12 @@ exports.config = {
 
     specs: [
 
-        //'./src/tests/demopage.login.spec.js',
+        /** un-comment enable below to run the script (without pom) */
+        './src/tests/demopage.login.spec.js',
+        /** un-comment enable below to run the script (Approach 1) */
         //'./src/tests/demopage.ap1.spec.js',
-        './src/tests/demopage.ap1.spec.js'
+        /** un-comment enable below to run the script (Approach 2) */
+        //'./src/tests/demopage.ap1.spec.js'
     ],
     
     capabilities: {
