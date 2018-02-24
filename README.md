@@ -2,6 +2,9 @@
 
 Demo repository for the creation of page object pattern in protractor with async/await.
 
+### Prerequisite
+you should setup protractor environment
+
 ### To run it
 
 1. Start server : `webdriver-manager start`
