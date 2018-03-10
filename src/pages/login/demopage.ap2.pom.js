@@ -2,9 +2,9 @@
 
 var DemoAppLoginPage = function() {
   
-  var userId = element(by.id('email'));
-  var password = element(by.id('pass'));
-  var loginBtn = element(by.id('loginbutton'));
+  const userId = element(by.id('email'));
+  const password = element(by.id('pass'));
+  const loginBtn = element(by.id('loginbutton'));
 
   this.setName = async function(name) {
     await userId.sendKeys(name);
